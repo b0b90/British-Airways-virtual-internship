@@ -1,21 +1,44 @@
-<h1>British Airways Data Science Virtual Internship</h1> 
-<p>Gain hands-on experience tackling real-world data science challenges within the airline industry! The British Airways Data Science Virtual Internship, offered through Forage, provides a unique opportunity to apply your skills to airline-specific datasets.</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>British Airways Virtual Internship Project</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 30px; }
+    h1, h2 { color: #333; }
+    section { margin-bottom: 20px; }
+    ul { list-style-type: disc; margin-left: 25px; }
+  </style>
+</head>
+<body>
 
-<p><strong>As an intern, you will:</strong></p>
-<ul>
-  <li>Clean and preprocess complex data</li>
-  <li>Conduct insightful exploratory data analysis</li>
-  <li>Develop and evaluate machine learning models</li>
-  <li>Gain valuable insights into the airline industry's data-driven decision-making</li>
-</ul>
-<p><strong>To embark on this journey:</strong></p>
-<ol> 
- <li>Visit the Forage website: <a href="https://www.theforage.com/">https://www.theforage.com/</a></li>
- <li>Locate the "British Airways Data Science Virtual Internship" program</li>
- <li>Enroll and begin your learning experience!</li>
-</ol>
-<ul>
-  <li>Flexible, self-paced format</li>
-  <li>Real-world British Airways data</li>
-  <li>Valuable resume-building experience</li>
-</ul>
+  <h1>British Airways Customer Sentiment Analysis and Behavior Prediction</h1>
+
+  <h2>Overview</h2>
+  <p>This project explores customer sentiment and buying behavior for British Airways through a virtual internship program provided by Forage. Key components include:</p>
+  <ul>
+    <li><strong>Web Scraping:</strong> Unstructured customer review data extracted from [https://www.airlinequality.com/airline-reviews/british-airways](https://www.airlinequality.com/airline-reviews/british-airways)</li>
+    <li><strong>Sentiment Analysis:</strong>  Classification of reviews as positive or negative to understand customer experiences.</li>
+    <li><strong>Customer Behavior Prediction:</strong> Development of a classification model to predict customer purchasing patterns.</li>
+    <li><strong>Presentation:</strong> Insights and analysis summarized in two PowerPoint presentations</li>
+  </ul>
+
+  <h2>Technologies Used</h2>
+  <ul>
+    <li>Python</li>
+    <li>BeautifulSoup (or similar)</li>
+    <li>NLTK or TextBlob (or similar)</li>
+    <li>scikit-learn (or similar)</li>
+    <li>PowerPoint</li>
+  </ul>
+
+  <h2>Project Structure</h2>
+  <h2>Key Findings</h2>
+  <h2>How to Run</h2>
+  <h2>Program Link</h2>
+  <p><a href="https://www.theforage.com/simulations/british-airways/data-science-yqoz">Forage Virtual Internship Program</a></p> 
+
+  <h2>Completion Certificate</h2>
+  <p><a href="[Link to your certificate]">View Certificate</a></p>
+
+</body>
+</html>
